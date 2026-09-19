@@ -108,7 +108,7 @@ I'm building this GitHub profile as a living portfolio of my technical developme
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/ranasey-duah-okity-07914731b/"]
+<a href="[https://www.linkedin.com/in/ranasey-duah-okity-07914731b/"]>
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
