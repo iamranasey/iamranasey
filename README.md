@@ -4,7 +4,7 @@
 
 **Information Technology · Systems & Network Administration**
 
-*IT Support · Networking · Cloud · Systems Administration · Cybersecurity*
+*IT Support · Networking · Cloud · AI Engineering · Systems Administration · Cybersecurity*
 
 <br />
 
@@ -19,7 +19,7 @@
 
 **I build, troubleshoot, and manage technology environments across systems, networks, and cloud infrastructure.**
 
-I am an Information Technology professional and B.A.Sc. Information Technology student focused on **systems administration, network infrastructure, cloud computing, endpoint management, cybersecurity, and technical support**. I enjoy understanding how technology works from the infrastructure level and turning that knowledge into practical labs, projects, and solutions.
+I am an Information Technology professional and B.A.Sc. Information Technology student focused on **systems administration, network infrastructure, cloud computing, AI engineering, endpoint management, cybersecurity, and technical support**. I enjoy understanding how technology works from the infrastructure level and turning that knowledge into practical labs, projects, and solutions.
 
 * **Currently:** B.A.Sc. Information Technology at **Ensign College** — Systems Administration · Networking · Cloud · Programming.
 * **Previously:** Information Technology Associate at **37 Military Hospital Association** — systems support, operating systems, troubleshooting, and web development.
@@ -67,7 +67,7 @@ Highlights from my learning and hands-on work:
 ## Past Experience
 
 * **37 Military Hospital Association** — Information Technology Associate · Mar 2022 – Feb 2025
-* **mothers2mothers** — Data Assistant · 2020 – Jan 2021
+* **Mothers2Mothers** — Data Assistant · 2020 – Jan 2021
 * **Oasis International Training Center** — IT Intern · 2017 – 2018
 
 ## Skills
@@ -80,7 +80,7 @@ Highlights from my learning and hands-on work:
 
 **Infrastructure** · Proxmox · Hyper-V · Virtual Machines · Virtual Networking · Windows Server Infrastructure
 
-**Development** · Python · HTML · CSS · Git · GitHub · Visual Studio Code · WordPress
+**Development** · Python · JavaScript ·TypeScript · React · Next.jsx · HTML · CSS · Git · GitHub · Visual Studio Code · Cursor 
 
 **Security** · Identity & Access Management · Authentication · Authorization · Endpoint Security · BitLocker · Network Security
 
