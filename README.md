@@ -8,8 +8,9 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ranaseyduah-okity)
-[![Email](https://img.shields.io/badge/email-ranaseyokity70%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ranaseyokity70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranaseyduah-okity)
+[![Email](https://img.shields.io/badge/email-ranaseyokity70%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranaseyokity70@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rduahokity.vercel.app-7a5836?style=flat-square&logo=vercel&logoColor=white)](https://rduahokity.vercel.app)
 
 </div>
 
@@ -24,6 +25,10 @@ I am an Information Technology professional and B.A.Sc. Information Technology s
 * **Currently:** B.A.Sc. Information Technology at **Ensign College** — Systems Administration · Networking · Cloud · Programming.
 * **Previously:** Information Technology Associate at **37 Military Hospital Association** — systems support, operating systems, troubleshooting, and web development.
 * **Focus:** Windows Server · Active Directory · Azure · Microsoft Intune · Networking · Virtualization · Cybersecurity.
+
+## Portfolio Website
+
+My personal portfolio — projects, experience, skills, and contact — is live at **[rduahokity.vercel.app](https://rduahokity.vercel.app)**. It is built with vanilla HTML, CSS, and JavaScript, and its content is sourced from this profile.
 
 ## Working On
 
@@ -115,12 +120,16 @@ I'm building this GitHub profile as a living portfolio of my technical developme
 <a href="mailto:ranaseyokity70@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://rduahokity.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Website-7a5836?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 </p>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=profile%20views\&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=profile%20views&style=flat-square)
 
 </div>
 
