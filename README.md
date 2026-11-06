@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ranasey Duah-Okity
+# DOR
 
 **Information Technology · Systems & Network Administration**
 
